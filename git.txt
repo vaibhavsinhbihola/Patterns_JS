@@ -1,5 +1,5 @@
 git init
-git add file || folder
+git add file || folder.(note the dot at the end)
 git commit -m "initial commit"
 git remote add origin <URL>
 git branch --show-current
