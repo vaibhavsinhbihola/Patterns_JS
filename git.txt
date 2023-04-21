@@ -1,0 +1,7 @@
+git init
+git add file || folder
+git commit -m "initial commit"
+git remote add origin <URL>
+git branch --show-current
+git branch -m master main (if master then change it)
+git push -u origin master
