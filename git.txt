@@ -9,4 +9,5 @@ git push -u origin main
 git branch(shows branches)
 git branch branch-name(create new branch)
 git checkout branch-name(goto that branch)
-git branch --delete branch-name
+git branch --delete branch-name(delete from local)
+git push origin --delete remoteBranchName(delete from remote)
