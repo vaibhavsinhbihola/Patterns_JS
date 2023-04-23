@@ -5,3 +5,8 @@ git remote add origin <URL>
 git branch --show-current
 git branch -m master main (if master then change it)
 git push -u origin main
+
+git branch(shows branches)
+git branch branch-name(create new branch)
+git checkout branch-name(goto that branch)
+git branch --delete branch-name
